@@ -1,3 +1,5 @@
+
+
 # 📚 PDF Research Assistant
 
 A **Retrieval-Augmented Generation (RAG)** based PDF question-answering application built with **Python, LangChain, ChromaDB, Hugging Face Embeddings, Groq, and Gradio**.
@@ -7,17 +9,6 @@ The application allows users to upload PDF documents, store their content in a v
 Instead of manually searching through a long PDF, the system retrieves the most relevant sections and uses an LLM to generate a clear answer based on the retrieved information.
 
 ---
-
-## 🎥 Project Demo
-
-> Add your screen recording or demo GIF here.
-
-<!-- Example:
-![Project Demo](demo.gif)
--->
-
----
-
 ## ✨ Features
 
 - 📄 Upload PDF documents through a Gradio interface
